@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, I’m @patrickballarano <br />
+👀 I work in Web3/Crypto <br />
+💼 Strong Mid-level backend dev in TS, NodeJS, Python <br />
+🌱 I’m currently learning -> NextJS, Solidity & ethers.js <br />
+📫 Reachable at patrickballarano@gmail.com <br />
 
 <!--
 **patrickballarano/patrickballarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
