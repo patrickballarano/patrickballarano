@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 ## Recent Work
 
-<a href="https://github.com/patrickballarano/test-rest-api">
-    <img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api/pin/?username=patrickballarano&repo=test-rest-api&theme=great-gatsby&hide_border=true" />
+<a href="https://github.com/patrickballarano/python-rest-api">
+    <img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api/pin/?username=patrickballarano&repo=python-rest-api&theme=great-gatsby&hide_border=true" />
 </a>
 <a href="https://github.com/patrickballarano/react-frontend">
     <img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api/pin/?username=patrickballarano&repo=react-frontend&theme=great-gatsby&hide_border=true" />
