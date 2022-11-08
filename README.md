@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-| <a href="https://github.com/patrickballarano/github-readme-stats"><img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api?username=patrickballarano&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true" alt="patrickballarano' github stats" /></a> | <a href="https://github.com/patrickballarano/github-readme-stats"><img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api/top-langs/?username=patrickballarano&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
+| <a href="https://github.com/patrickballarano/github-readme-stats"><img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api?username=patrickballarano&include_all_commits=false&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true" alt="patrickballarano' github stats" /></a> | <a href="https://github.com/patrickballarano/github-readme-stats"><img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api/top-langs/?username=patrickballarano&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
