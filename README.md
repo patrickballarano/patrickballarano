@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 
 ## Recent Work
 
+<a href="https://github.com/patrickballarano/solana-nft-drop">
+    <img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api/pin/?username=patrickballarano&repo=solana-nft-drop&theme=great-gatsby&hide_border=true" />
+</a>
 <a href="https://github.com/patrickballarano/uniswap-v3-pool-aggregates">
     <img align="center" src="https://github-readme-stats-patrickballarano.vercel.app/api/pin/?username=patrickballarano&repo=uniswap-v3-pool-aggregates&theme=great-gatsby&hide_border=true" />
 </a>
